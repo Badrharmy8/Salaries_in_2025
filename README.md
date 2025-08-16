@@ -111,21 +111,17 @@ The raw dataset contained multiple issues and inconsistencies. Key cleaning step
 ## 📁 Project Structure
 
 Salaries_in_2025/
-│
-├── data/
-│ └── salary(cleaned).csv
-│
-├── scripts/
-│ └── data_cleaning.py
-│
-├── dashboards/
-│ └── dashboard.pbix
-│
-├── images/
-│ ├── country_site_dash.png
-│ ├── general_role_dash1.png
-│ ├── general_role_dash2.png
-│ └── experience_level_dash.png
-│
-└── README.md
+- data/
+  - salary(cleaned).csv
+- scripts/
+  - data_cleaning.py
+- dashboards/
+  - dashboard.pbix
+- images/
+  - country_site_dash.png
+  - general_role_dash1.png
+  - general_role_dash2.png
+  - experience_level_dash.png
+- README.md
+
 
