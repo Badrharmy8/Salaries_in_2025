@@ -95,16 +95,16 @@ The raw dataset contained multiple issues and inconsistencies. Key cleaning step
 ## 🖼️ Sample Dashboards
 
 ### 🌍 Country & Company Insights
-![Country Dashboard](country_site_dash.png)
+![Country Dashboard](https://raw.githubusercontent.com/Badrharmy8/Salaries_in_2025/main/country_site_dash.jpg)
 
 ### 💼 Roles vs Companies
-![Role Dashboard 1](general_role_dash1.png)
+![Role Dashboard 1](https://raw.githubusercontent.com/Badrharmy8/Salaries_in_2025/main/general_role_dash1.png)
 
 ### 🧠 Roles & Experience Levels
-![Role Dashboard 2](general_role_dash2.png)
+![Role Dashboard 2](https://raw.githubusercontent.com/Badrharmy8/Salaries_in_2025/main/general_role_dash2.png)
 
 ### 📈 Experience Level Analysis
-![Experience Dashboard](experience_level_dash.png)
+![Experience Dashboard](https://raw.githubusercontent.com/Badrharmy8/Salaries_in_2025/main/experience_level_dash.png)
 
 ---
 
