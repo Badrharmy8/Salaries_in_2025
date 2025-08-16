@@ -95,16 +95,16 @@ The raw dataset contained multiple issues and inconsistencies. Key cleaning step
 ## 🖼️ Sample Dashboards
 
 ### 🌍 Country & Company Insights
-![Country Dashboard](images/country_site_dash.png)
+![Country Dashboard](country_site_dash.png)
 
 ### 💼 Roles vs Companies
-![Role Dashboard 1](images/general_role_dash1.png)
+![Role Dashboard 1](general_role_dash1.png)
 
 ### 🧠 Roles & Experience Levels
-![Role Dashboard 2](images/general_role_dash2.png)
+![Role Dashboard 2](general_role_dash2.png)
 
 ### 📈 Experience Level Analysis
-![Experience Dashboard](images/experience_level_dash.png)
+![Experience Dashboard](experience_level_dash.png)
 
 ---
 
